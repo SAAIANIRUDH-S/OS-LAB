@@ -1,0 +1,4 @@
+File Organization Techniques
+Sequential: Records stored one after another
+Direct: Record accessed using address/key
+Indexed: Index points to record blocks

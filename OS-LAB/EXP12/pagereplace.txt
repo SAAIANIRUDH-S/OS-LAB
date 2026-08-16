@@ -1,0 +1,6 @@
+Page Replacement Algorithms
+Reference String: 1 2 3 1 4 5 2 1
+Frames: 3
+FIFO Page Faults = 7
+LRU Page Faults = 6
+Optimal Page Faults = 5

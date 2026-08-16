@@ -1,0 +1,7 @@
+SJF
+Process BT WT TAT
+P1 3 0 3
+P2 5 3 8
+P3 7 8 15
+Average WT = 2.67
+Average TAT = 7.67

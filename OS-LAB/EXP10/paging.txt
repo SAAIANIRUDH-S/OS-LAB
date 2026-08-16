@@ -1,0 +1,7 @@
+Page Size: 100
+Number of Pages: 4
+Logical Address: 235
+Page Number : 2
+Offset : 35
+Frame Number : 1
+Physical Address : 135

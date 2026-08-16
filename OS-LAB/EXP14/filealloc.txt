@@ -1,0 +1,4 @@
+File Allocation Strategies
+Sequential: 10 11 12 13 14
+Indexed: Index Block=5 -> 21 35 42
+Linked: 7 -> 12 -> 18 -> 24 -> NULL
